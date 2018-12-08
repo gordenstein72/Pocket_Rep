@@ -1,0 +1,26 @@
+Nevada
+Senator
+Catherine
+Cortez Masto
+Democratic
+202-224-3542
+Senator
+Dean
+Heller
+Republican
+202-224-6244
+Senator
+Jacklyn
+Rosen
+Democratic
+202-225-3252
+Representative
+Mark
+Amodei
+Republican
+202-225-6155
+Representative
+Steven
+Horsford
+Democratic
+

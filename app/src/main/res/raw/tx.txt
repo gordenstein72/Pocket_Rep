@@ -1,0 +1,16 @@
+Texas
+Senator
+John
+Cornyn
+Republican
+202-224-2934
+Senator
+Rafael
+Cruz
+Republican
+202-224-5922
+Representative
+Colin
+Allred
+Democratic
+

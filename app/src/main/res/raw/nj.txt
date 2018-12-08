@@ -1,0 +1,26 @@
+New Jersey
+Senator
+Cory
+Booker
+Democratic
+202-224-3224
+Senator
+Robert
+Menendez
+Democratic
+202-224-4744
+Representative
+Rodney
+Frelinghuysen
+Republican
+202-225-5034
+Representative
+Joshua
+Gottheimer
+Democratic
+202-225-4465
+Representative
+Andy
+Kim
+Democratic
+

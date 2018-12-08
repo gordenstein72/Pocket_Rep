@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pocket Rep</string>
+    <string name="title_activity_politician_list">PoliticianListActivity</string>
+    <string name="title_activity_politician_bio">PoliticianBioActivity</string>
+</resources>

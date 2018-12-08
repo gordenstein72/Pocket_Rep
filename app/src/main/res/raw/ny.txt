@@ -1,0 +1,36 @@
+New York
+Senator
+Kirsten
+Gillibrand
+Democratic
+202-224-4451
+Senator
+Charles
+Schumer
+Democratic
+202-224-6542
+Representative
+Anthony
+Brindisi
+Democratic, Independence, Working Families, Women's Equality
+518-455-5454
+Representative
+Yvette
+Clarke
+Democratic
+202-225-6231
+Representative
+Chris
+Collins
+Republican
+202-225-5265
+Representative
+Joseph
+Crowley
+Democratic
+202-225-3965
+Representative
+Antonio
+Delgado
+Democratic, Women's Equality
+
